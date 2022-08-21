@@ -7,7 +7,7 @@
 
 # Introduction
 
-The New York metropolitan area has has one of the deepest and intricate transportation systems in the world. It home to one of the largest subway and airport systems in the wold. The Port of New York and New Jersey is home to the busiest seaport in the United States. Millions of people everyday use the transporation systems in the area to get to their final destination.
+The New York metropolitan area has has one of the deepest and intricate transportation systems in the world. It home to one of the largest subway and airport systems in the wold.About one in every three users of mass transit in the United States and two-thirds of the nation's rail riders live in the New York metropolitan area. The Port of New York and New Jersey is home to the busiest seaport in the United States. Millions of people everyday use the transporation systems in the area to get to their final destination.
 
 Back to [Contents](#Header)
 
